@@ -1,0 +1,163 @@
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\concrt140.dll
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\cvextern.dll
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\msvcp140.dll
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\opencv_ffmpeg330_64.dll
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\vcruntime140.dll
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\cvextern.lib
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\uyg1.exe.config
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\uyg1.exe
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\uyg1.pdb
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\Emgu.CV.World.dll
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\ZedGraph.dll
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\bin\Debug\Emgu.CV.World.xml
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\obj\Debug\uyg1.csprojResolveAssemblyReference.cache
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\obj\Debug\uyg1.Form1.resources
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\obj\Debug\uyg1.Properties.Resources.resources
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\obj\Debug\uyg1.csproj.GenerateResource.Cache
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\obj\Debug\uyg1.csproj.CoreCompileInputs.cache
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\obj\Debug\uyg1.exe
+C:\Users\pc_eem\Desktop\emgu\çalışma\uyg1\uyg1\obj\Debug\uyg1.pdb
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\concrt140.dll
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\cvextern.dll
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\msvcp140.dll
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\opencv_ffmpeg330_64.dll
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\vcruntime140.dll
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\cvextern.lib
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\uyg1.exe.config
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\uyg1.exe
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\uyg1.pdb
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\Emgu.CV.World.dll
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\ZedGraph.dll
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\Emgu.CV.World.xml
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.csprojResolveAssemblyReference.cache
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.Form1.resources
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.Properties.Resources.resources
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.csproj.GenerateResource.Cache
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.csproj.CoreCompileInputs.cache
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.exe
+C:\Users\pc_eem\Desktop\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.pdb
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\concrt140.dll
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\cvextern.dll
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\msvcp140.dll
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\opencv_ffmpeg330_64.dll
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\vcruntime140.dll
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\cvextern.lib
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\uyg1.exe.config
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\uyg1.exe
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\uyg1.pdb
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\Emgu.CV.World.xml
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.csprojAssemblyReference.cache
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.Form1.resources
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.Properties.Resources.resources
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.csproj.GenerateResource.cache
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.csproj.CoreCompileInputs.cache
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.csproj.CopyComplete
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.exe
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\obj\Debug\uyg1.pdb
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\FastMember.dll
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\ClosedXML.pdb
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\ClosedXML.xml
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\pc_copat\Desktop\Proje Çaışmaları\ROBO_BEE\projeEmguOktay\uyg1\uyg1\bin\Debug\ClosedXML.dll
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\concrt140.dll
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\cvextern.dll
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\msvcp140.dll
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\opencv_ffmpeg330_64.dll
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\vcruntime140.dll
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\cvextern.lib
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\uyg1.exe.config
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\uyg1.exe
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\uyg1.pdb
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\FastMember.dll
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\ClosedXML.pdb
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\ClosedXML.xml
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\Emgu.CV.World.xml
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\obj\Debug\uyg1.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\obj\Debug\uyg1.Form1.resources
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\obj\Debug\uyg1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\obj\Debug\uyg1.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\obj\Debug\uyg1.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\obj\Debug\uyg1.exe
+C:\Users\lenovo\Desktop\Maliha\uyg1\uyg1\obj\Debug\uyg1.pdb
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\concrt140.dll
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\cvextern.dll
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\msvcp140.dll
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\opencv_ffmpeg330_64.dll
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\vcruntime140.dll
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\cvextern.lib
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\uyg1.exe.config
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\uyg1.exe
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\uyg1.pdb
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\FastMember.dll
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\ClosedXML.pdb
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\ClosedXML.xml
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\Emgu.CV.World.xml
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\obj\Debug\uyg1.csprojAssemblyReference.cache
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\obj\Debug\uyg1.Form1.resources
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\obj\Debug\uyg1.Properties.Resources.resources
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\obj\Debug\uyg1.csproj.GenerateResource.cache
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\obj\Debug\uyg1.csproj.CoreCompileInputs.cache
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\obj\Debug\uyg1.csproj.CopyComplete
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\obj\Debug\uyg1.exe
+C:\Users\malih\OneDrive\Desktop\Maliha2\uyg1\uyg1\obj\Debug\uyg1.pdb
+E:\Maliha22222\uyg1\uyg1\bin\Debug\concrt140.dll
+E:\Maliha22222\uyg1\uyg1\bin\Debug\cvextern.dll
+E:\Maliha22222\uyg1\uyg1\bin\Debug\msvcp140.dll
+E:\Maliha22222\uyg1\uyg1\bin\Debug\opencv_ffmpeg330_64.dll
+E:\Maliha22222\uyg1\uyg1\bin\Debug\vcruntime140.dll
+E:\Maliha22222\uyg1\uyg1\bin\Debug\cvextern.lib
+E:\Maliha22222\uyg1\uyg1\bin\Debug\uyg1.exe.config
+E:\Maliha22222\uyg1\uyg1\bin\Debug\uyg1.exe
+E:\Maliha22222\uyg1\uyg1\bin\Debug\uyg1.pdb
+E:\Maliha22222\uyg1\uyg1\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Maliha22222\uyg1\uyg1\bin\Debug\ExcelNumberFormat.dll
+E:\Maliha22222\uyg1\uyg1\bin\Debug\FastMember.dll
+E:\Maliha22222\uyg1\uyg1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\Maliha22222\uyg1\uyg1\bin\Debug\ClosedXML.pdb
+E:\Maliha22222\uyg1\uyg1\bin\Debug\ClosedXML.xml
+E:\Maliha22222\uyg1\uyg1\bin\Debug\Emgu.CV.UI.xml
+E:\Maliha22222\uyg1\uyg1\bin\Debug\Emgu.CV.UI.GL.xml
+E:\Maliha22222\uyg1\uyg1\bin\Debug\Emgu.CV.World.xml
+E:\Maliha22222\uyg1\uyg1\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Maliha22222\uyg1\uyg1\bin\Debug\ExcelNumberFormat.xml
+E:\Maliha22222\uyg1\uyg1\obj\Debug\uyg1.Form1.resources
+E:\Maliha22222\uyg1\uyg1\obj\Debug\uyg1.Properties.Resources.resources
+E:\Maliha22222\uyg1\uyg1\obj\Debug\uyg1.csproj.GenerateResource.cache
+E:\Maliha22222\uyg1\uyg1\obj\Debug\uyg1.csproj.CoreCompileInputs.cache
+E:\Maliha22222\uyg1\uyg1\obj\Debug\uyg1.csproj.CopyComplete
+E:\Maliha22222\uyg1\uyg1\obj\Debug\uyg1.exe
+E:\Maliha22222\uyg1\uyg1\obj\Debug\uyg1.pdb
+E:\Maliha22222\uyg1\uyg1\obj\Debug\uyg1.csproj.AssemblyReference.cache
+E:\Maliha22222\uyg1\uyg1\obj\Debug\uyg1.csproj.SuggestedBindingRedirects.cache
